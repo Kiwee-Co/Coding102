@@ -12,7 +12,7 @@ As for the final project, we will have two weeks to discuss possible project ide
 ### Week 1-2: Introduction to Arrays and Lists
   - Understanding arrays and their use
   - Basic operations on arrays
-  - Introduction to lists (ArrayList)
+  - Introduction to lists (ArrayList/Linked List)
   - Basic operations on lists
 
 ### Week 3-4: Exploring Stacks and Queues
